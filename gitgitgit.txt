@@ -1,0 +1,36 @@
+$ ls
+
+$ pwd
+
+$ git --help
+
+$ git init 
+
+$ ls -al
+
+$ git clone https://github.com/mauvedemian/test.git 
+: 깃헙에 있는걸 복제하기
+-> $ ls 하면 폴더 복제됨.
+
+$ cd 
+
+$ git status
+: 상태보기
+
+$ git add .
+: 현재 있는 곳의 파일이 add될 준비를 하기
+
+$ git commit -m "테스트"
+: 커밋해야 넣을 수 있음
+
+$ git push
+: add 완료된 파일을 github으로 push
+: username/passwd 만들게됨
+
+$ git fetch
+
+$ git pull
+: github에서 내 컴으로 갖고오기
+
+$ cat file.txt
+file.txt의 내용보기
